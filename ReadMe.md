@@ -23,8 +23,8 @@
 </h2>
 
 <div align="center">
-<a href="www.squaremoon.com"><img border="0" alt="Python" src="https://img.shields.io/badge/python-292525?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-<a href="www.squaremoon.com"><img border="0" alt="R" src="https://img.shields.io/badge/r-292525.svg?style=for-the-badge&logo=r&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-<a href="www.squaremoon.com"><img border="0" alt="Figma" src="https://img.shields.io/badge/figma-292525.svg?style=for-the-badge&logo=figma&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/community/plugin/1085928256238166159/FeedLabs"><img border="0" alt="Python" src="https://img.shields.io/badge/python-292525?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/community/plugin/1085928256238166159/FeedLabs"><img border="0" alt="R" src="https://img.shields.io/badge/r-292525.svg?style=for-the-badge&logo=r&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/community/plugin/1085928256238166159/FeedLabs"><img border="0" alt="Figma" src="https://img.shields.io/badge/figma-292525.svg?style=for-the-badge&logo=figma&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/community/plugin/1085928256238166159/FeedLabs"><img border="0" alt="FeedLabs" src="https://storage.googleapis.com/image_hosting_sqm/feedlabs.svg"></a>&nbsp;&nbsp;&nbsp;
 <div>
