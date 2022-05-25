@@ -18,13 +18,11 @@
 
 </div>
 
-## Tech Stack
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Tech Stack &nbsp;
+</h1>
+
+<div align="center">
 ![Python](https://img.shields.io/badge/python-292525?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-292525.svg?style=for-the-badge&logo=r&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-292525.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![FeedLabs](https://storage.googleapis.com/image_hosting_sqm/feedlabs.svg)
-## GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nickkuiper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nickkuiper&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkuiper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=nickkuiper&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
