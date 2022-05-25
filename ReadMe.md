@@ -23,6 +23,10 @@
 </h1>
 
 <div align="center">
+<a href="https://www.squaremoon.com"><img border="0" alt="Python" src="https://img.shields.io/badge/python-292525?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<div>
+
+
+## Tech Stack
 ![Python](https://img.shields.io/badge/python-292525?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-292525.svg?style=for-the-badge&logo=r&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-292525.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![FeedLabs](https://storage.googleapis.com/image_hosting_sqm/feedlabs.svg)
-</div>
