@@ -14,7 +14,6 @@
 <h3 align="center">
   Creating a better online experience for marketers and designers.
 </h3>
-<br>
 
 </div>
 
@@ -31,4 +30,4 @@
 
 
 
-![](https://storage.googleapis.com/image_hosting_sqm/Banner%20Github.png)
+![](https://storage.googleapis.com/image_hosting_sqm/Banner%20Github.jpg)
