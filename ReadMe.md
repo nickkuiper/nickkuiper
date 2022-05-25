@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nickkuiper11) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nickkuiper11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIJQakRtC6Hk4MH0vQEDuQA)
+[![Squaremoon](https://storage.googleapis.com/image_hosting_sqm/squaremoon.svg)](https://www.squaremoon.nl/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nickkuiper11) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nickkuiper11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIJQakRtC6Hk4MH0vQEDuQA)
 
 
 <h3 align="center">
@@ -28,3 +28,5 @@
 <a href="https://www.figma.com/community/plugin/1085928256238166159/FeedLabs"><img border="0" alt="Figma" src="https://img.shields.io/badge/figma-292525.svg?style=for-the-badge&logo=figma&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/community/plugin/1085928256238166159/FeedLabs"><img border="0" alt="FeedLabs" src="https://storage.googleapis.com/image_hosting_sqm/feedlabs.svg"></a>&nbsp;&nbsp;&nbsp;
 <div>
+
+![](https://storage.googleapis.com/image_hosting_sqm/Banner%20Github.png)
